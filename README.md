@@ -1,4 +1,4 @@
-Hand Mouse Control – Project Documentation
+
 1. Project Overview
 
 Hand Mouse Control is a Python-based application that allows users to control their computer mouse using hand gestures.
